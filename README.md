@@ -1,7 +1,7 @@
-# 👨🏻‍🎨 [Asset —]
+# 👨🏻‍🎨 [Asset] —
 
 #### Figma:
 
 [Artboard](Artboard.fig)
 
-[Asset —]: httpS://github.com/PlayForm/Asset
+[Asset]: HTTPS://github.com/PlayForm/Asset
