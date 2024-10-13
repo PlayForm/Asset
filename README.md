@@ -2,6 +2,6 @@
 
 #### Figma:
 
-[Artboard](Artboard.fig)
+[`Artboard`](Artboard.fig)
 
 [Asset]: HTTPS://github.com/PlayForm/Asset
