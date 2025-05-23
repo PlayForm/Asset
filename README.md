@@ -4,4 +4,4 @@
 
 [`Artboard`](Artboard.fig)
 
-[Asset]: HTTPS://github.com/PlayForm/Asset
+[Asset]: https://github.com/PlayForm/Asset
